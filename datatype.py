@@ -8,5 +8,5 @@
 '''
 #An example of range() below;
 
-for a in range(1, 11, 1):
+for a in range(0, 11, 1):
 print (a)
