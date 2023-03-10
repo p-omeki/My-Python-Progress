@@ -7,7 +7,7 @@ study = 3.2 #Creating  a floating point value variable
 
 print (name)
 
-del (study) # Now, what this will do is that it will delete variable 'study' and if we try to print variable study it will bring an error!
+##del (study) # Now, what this will do is that it will delete variable 'study' and if we try to print variable study it will bring an error!
 
 ##Local variable and Global variable
 '''
