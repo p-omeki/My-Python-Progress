@@ -1,4 +1,4 @@
 if True:
-    print ("Truee")
+    print ("True")
 else:
     print ("False")
