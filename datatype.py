@@ -1,4 +1,4 @@
-#Python Range - Is na inbuilt-function in python which return a sequence of numbers from 0
+#Python Range - Is an inbuilt-function in python which return a sequence of numbers from 0
 ## with an increanent of 1 until it reaches a specified sequence
 '''Works like a for loop with integer value declared, initialization and inc/dec ment
   denoted as "range()"
