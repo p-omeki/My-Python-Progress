@@ -39,9 +39,9 @@ The Tribranch is the feature branch of the main branch
  #The [] and () enclosers are only in the output.
  #Types of python operators
    '''
-   1. Arithmetic operators.
+   1. Arithmetic operators - Includes the Addition(+), Substraction(-), Multiplication(*), Modulus(%),Exponent(**), Floor division(//), etc.
    2. Bitwise operators.
-   3. Relational(Comparisson) operators.
-   4. Logical operators.
-   5. Assignment operators
+   3. Relational(Comparisson) operators - Includes Equal(==), Not equal(!=), Greater than(>), Less than (<), etc.
+   4. Logical operators - Includes the Logical AND,OR or NAND
+   5. Assignment operators  - Includes the (=), ()
    '''
