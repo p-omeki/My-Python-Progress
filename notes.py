@@ -37,6 +37,11 @@ The Tribranch is the feature branch of the main branch
  #~enclosed with parenthesis ()  and cannot be changed. Basically, tuples are 
  #~read-only lists.
  #The [] and () enclosers are only in the output.
-            
-            
-            
+ #Types of python operators
+   '''
+   1. Arithmetic operators.
+   2. Bitwise operators.
+   3. Relational(Comparisson) operators.
+   4. Logical operators.
+   5. Assignment operators
+   '''
