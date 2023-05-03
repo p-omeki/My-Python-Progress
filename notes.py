@@ -51,8 +51,8 @@ The Tribranch is the feature branch of the main branch
     Decision making in Python is the anticipation of condition when executing a program.
     In Python, there is the if statement, if else and the nested if statement.
     In if statement, can only be used when we want only to find a TRUE statement. If the condition is true, the compiler executes the conditional code and if not it jumps to produce a False output.
-    In if else statement, can only be used when we want both TRUE and FALSE statement. If the condition is true, it executes the if statmt. and if false it execute the false statement.
+    In if else statement, can only be used when we want both TRUE and FALSE statement. If the condition is true, it executes the if statmt. and if false it execute the else statement.
     Also, there's the elif statement, similar to if else but it can only be used when we want to execute multiple TRUE statements.
-    The major difference between elif statement and if  else statement is that elif can be used to execute multiple TRUE statement while elif can only be used when executing at most one statement...
-    Lastly, the nested if sttmt., it used when executing an if statement inside another if statement
+    The major difference between elif statement and if  else statement is that elif can be used to execute multiple TRUE statement while if else can only be used when executing at most one statement...
+    Lastly, the nested if sttmt., it used when executing an if statement inside another if statement. Basically, I would say it's a combination of if else and elif statement.
    '''
