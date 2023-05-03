@@ -43,5 +43,16 @@ The Tribranch is the feature branch of the main branch
    2. Bitwise operators.
    3. Relational(Comparisson) operators - Includes Equal(==), Not equal(!=), Greater than(>), Less than (<), etc.
    4. Logical operators - Includes the Logical AND,OR or NAND
-   5. Assignment operators  - Includes the (=), ()
+   5. Assignment operators  - Includes the (=), (+=), (-=), etc.
+   '''
+  
+  #Decision makeing in Python
+   '''
+    Decision making in Python is the anticipation of condition when executing a program.
+    In Python, there is the if statement, if else and the nested if statement.
+    In if statement, can only be used when we want only to find a TRUE statement. If the condition is true, the compiler executes the conditional code and if not it jumps to produce a False output.
+    In if else statement, can only be used when we want both TRUE and FALSE statement. If the condition is true, it executes the if statmt. and if false it execute the false statement.
+    Also, there's the elif statement, similar to if else but it can only be used when we want to execute multiple TRUE statements.
+    The major difference between elif statement and if  else statement is that elif can be used to execute multiple TRUE statement while elif can only be used when executing at most one statement...
+    Lastly, the nested if sttmt., it used when executing an if statement inside another if statement
    '''
