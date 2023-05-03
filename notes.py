@@ -55,4 +55,5 @@ The Tribranch is the feature branch of the main branch
     Also, there's the elif statement, similar to if else but it can only be used when we want to execute multiple TRUE statements.
     The major difference between elif statement and if  else statement is that elif can be used to execute multiple TRUE statement while if else can only be used when executing at most one statement...
     Lastly, the nested if sttmt., it used when executing an if statement inside another if statement. Basically, I would say it's a combination of if else and elif statement.
+    Construct if...elif...else
    '''
