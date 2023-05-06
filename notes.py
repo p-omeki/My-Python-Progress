@@ -86,3 +86,7 @@ The Tribranch is the feature branch of the main branch
        print str
        return      
    """
+   #Module in Python
+   ##A module is a file consisting of Python code.It can define functions, classes and variables and also include runnable code.
+   #Packages in Python
+   ##A package is a hierarchical file directory structure that defines a single Python application environment that consists of modules and subpackages and sub-subpackages, and so on.
