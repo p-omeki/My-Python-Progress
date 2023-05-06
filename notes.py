@@ -71,5 +71,5 @@ The Tribranch is the feature branch of the main branch
    The Name and the Age right now are the immutable data types.
    Properties of Dictionary 
      1. More than one key entry is not allowed.
-     2. Key should not be immutable.
+     2. Key should be immutable.
    '''
