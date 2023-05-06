@@ -36,7 +36,6 @@ The Tribranch is the feature branch of the main branch
  #~list are enclosed with brackets [] and it can be changed (elements) while tuple are 
  #~enclosed with parenthesis ()  and cannot be changed. Basically, tuples are 
  #~read-only lists.
- #The [] and () enclosers are only in the output.
  #Types of python operators
    '''
    1. Arithmetic operators - Includes the Addition(+), Substraction(-), Multiplication(*), Modulus(%),Exponent(**), Floor division(//), etc.
