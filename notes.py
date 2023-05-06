@@ -57,3 +57,16 @@ The Tribranch is the feature branch of the main branch
     Lastly, the nested if sttmt., it used when executing an if statement inside another if statement. Basically, I would say it's a combination of if else and elif statement.
     Construct if...elif...else
    '''
+   #Dictionary in Python
+   """
+   Keys in dictionary are separated by (:) and the values are separated by commas (,) and the whole dictionary is enclosed by {}
+   Keys within a dictionary are unique while the values may be of any type. Keys are immutable data types such as String, Numbers or Tuples.
+    
+   """
+   #Example of a dictionary in Python
+   dict = {'Name': 'Zara', 'Age': 10}
+   print ,dict['Name']
+   '''
+   The "Name" in the dictionary above is the 'key' while "Zara" is the 'value'
+   The Name and the Age right now are the immutable data types.
+   '''
