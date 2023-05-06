@@ -73,3 +73,16 @@ The Tribranch is the feature branch of the main branch
      1. More than one key entry is not allowed.
      2. Key should be immutable.
    '''
+   #Functions in Python
+   """
+   A function is a block of organized, reusable code that is used to perform a single, related action. Functions in Python are defined as:
+      1. Functions start with 'def' keyword which defines the function. It's followed by the function name and lastly a paranthesis.
+      2. Any argument or parameters is defined inside the paranthesis or at times the parameters contain nothing in between them.
+      3. Functions after defining and enclosing it with parameters is followed by (:) and it's indented.
+      4. The function uses a return[] to exit an action
+    The code below describes the above points;
+    def printme( str ):
+      "This prints a passed string into this function"
+       print str
+       return      
+   """

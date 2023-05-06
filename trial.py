@@ -43,3 +43,16 @@ var2 = "Python Programming"
 print , var1[0]
 print , var2[1:5]
 #When I run the code above, it gives no output. What might be wrong?
+#Time in Python
+#Getting Localtime in Python
+import time;
+localtime = time.localtime(time.time())
+print(localtime)
+#Getting an updated Locatime ~ More specific
+import time;
+localtime = time.asctime(time.localtime(time.time()))
+print(localtime)
+#Getting Calendar in Python
+import calendar;
+cal =calendar.month(2023,5)
+print(cal)
