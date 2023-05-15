@@ -90,3 +90,8 @@ The Tribranch is the feature branch of the main branch
    ##A module is a file consisting of Python code.It can define functions, classes and variables and also include runnable code.
    #Packages in Python
    ##A package is a hierarchical file directory structure that defines a single Python application environment that consists of modules and subpackages and sub-subpackages, and so on.
+   #In Place operator in Python
+   """The in place opeartor in python was introduced because it was found that it was not a good programming practise to put two variables in one line of code.
+   Example, a variable age declared as : "age=age+1", now we can see that clearly there are two variable age declared on the line and so what the in place operator 
+   does to the code is that, it will make it: "age+=1"
+   """
