@@ -91,7 +91,8 @@ The Tribranch is the feature branch of the main branch
    #Packages in Python
    ##A package is a hierarchical file directory structure that defines a single Python application environment that consists of modules and subpackages and sub-subpackages, and so on.
    #In Place operator in Python
-   """The in place opeartor in python was introduced because it was found that it was not a good programming practise to put two variables in one line of code.
+   """The in place opeartor in python was introduced because it was found that it was not a good programming practise to specify two variables in one line of code.
+   Though, it's logically correct, it's not advisable.
    Example, a variable age declared as : "age=age+1", now we can see that clearly there are two variable age declared on the line and so what the in place operator 
-   does to the code is that, it will make it: "age+=1"
+   does to the code is that, it will make it: "age+=1". Here, the inplace operator is "+=", also "-=" ,"*=", e.t.c.
    """
